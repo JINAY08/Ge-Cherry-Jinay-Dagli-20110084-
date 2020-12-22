@@ -1,1 +1,4 @@
 # Ge-Cherry-Jinay-Dagli-20110084-
+Before running the file, please make sure to save all unzipped files in one directory.
+In order to run the program, you will need to run the file called "Ge'Cherry.py"
+There are also the various images of characters in the shared files.
